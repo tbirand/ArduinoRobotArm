@@ -1,6 +1,5 @@
 // Serial Robot Arm Controller
 // by Turgay Birand
-// This example code is in the public domain.
 
 
 #include <Servo.h> 
