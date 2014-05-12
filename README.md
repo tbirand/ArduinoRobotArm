@@ -5,7 +5,7 @@ The project is organized into three folders:
 
 * App - Contains source code for a reference desktop app developed with the Qt framework.
 * Arduino - This folder holds the Arduino source code driving the robot arm with vectors received on the serial port.
-* Design - This folder has the OpenSCAD design file of the robot arm parts for 3d printing.
+* Design - This folder has the OpenSCAD design file of the robot arm parts for 3D printing.
 
 You will need five 9g Micro Servos and probably a Servo shield of some sort to hook up all the servos to your Arduino board.
 
