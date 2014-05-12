@@ -1,6 +1,6 @@
 3D Printable Arduino Robot Arm
-by Turgay Birand <tbirand@gmail.com>
 ==============================
+By Turgay Birand <tbirand@gmail.com>
 
 The project is organized into three folders:
 
